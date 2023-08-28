@@ -1,6 +1,57 @@
-.container img {
-    max-width:200px;
-    max-height:150px;
-    width: auto;
-    height: auto;
-}
+body {
+            Font-family: Copperplate, Copperplate Gothic Light, fantasy.
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .column {
+            width: 50%;
+            float: left;
+        }
+
+        .site {
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .site img {
+            width: 100%;
+            max-width: 100%;
+        }
+
+        .site-title {
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+
+        .site-description {
+            color: #666;
+        }
+
+        .site-button {
+            display: block;
+            margin-top: 10px;
+            background-color: #d1c09b;
+            color: #fff;
+            border: none;
+            padding: 5px 10px;
+            text-align: center;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .site-button:hover {
+            background-color: #aa9df5;
+        }
+
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }

@@ -15,8 +15,8 @@ body {
       border: 1px solid transparent;
       padding: 30px;
       border-radius: 20px;
-      background-color: #ddd;
-      box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+       background-color: #a4ceffb7;
+      box-shadow: rgba(16, 130, 179, 0.3) 0px 19px 38px, rgba(255, 255, 255, 0.22) 0px 15px 12px;
     }
     
     .details {

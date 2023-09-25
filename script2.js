@@ -22,64 +22,64 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'musica1.webp',
+        img : 'musicafotos/musica1.webp',
         name : 'King for a Day',
         artist : 'Pierce the Veil',
-        music : 'musica1.mp3'
+        music : 'musicafotos/musica1.mp3'
     },
     {
-        img : 'musica2.webp',
+        img : 'musicafotos/musica2.webp',
         name : 'After Dark',
         artist : 'Mr.Kitty',
-        music : 'musica2.mp3'
+        music : 'musicafotos/musica2.mp3'
     },
     {
-        img : 'musica3.jfif',
+        img : 'musicafotos/musica3.jfif',
         name : 'Sarcasm',
         artist : 'Get Scared ',
-        music : 'musica3.mp3'
+        music : 'musicafotos/musica3.mp3'
     },
     {
-        img : 'musica4.jpg',
+        img : 'musicafotos/musica4.jpg',
         name : 'Sonne',
         artist : 'Rammstein',
-        music : 'musica4.mp3'
+        music : 'musicafotos/musica4.mp3'
     },
     {
-        img : 'musica5.jfif',
+        img : 'musicafotos/musica5.jfif',
         name : 'Who Is She',
         artist : ' I Monster',
-        music : 'musicaa5.mp3'
+        music : 'musicafotos/musicaa5.mp3'
     },
     {
-        img : 'musica6.jfif',
+        img : 'musicafotos/musica6.jfif',
         name : 'Me and the Devil',
         artist : 'Soap&Skin',
-        music : 'musica6.mp3'
+        music : 'musicafotos/musica6.mp3'
     },
     {
-        img : 'musica7.jpg',
+        img : 'musicafotos/musica7.jpg',
         name : 'Bring Me to Life',
         artist : 'Evanescence',
-        music : 'musica7.mp3'
+        music : 'musicafotos/musica7.mp3'
     },
     {
-        img : 'musica8.jfif',
+        img : 'musicafotos/musica8.jfif',
         name : 'Daddy Issues',
         artist : 'The Neighbourhood',
-        music : 'musica8.mp3'
+        music : 'musicafotos/musica8.mp3'
     },
     {
-        img : 'musica9.webp',
+        img : 'musicafotos/musica9.webp',
         name : 'dumb dumb',
         artist : 'Mazie',
-        music : 'musica9.mp3'
+        music : 'musicafotos/musica9.mp3'
     },
     {
-        img : 'musica10.jpg',
+        img : 'musicafotos/musica10.jpg',
         name : 'Смерти Больше Нет',
         artist : 'IC3PEAK',
-        music : 'musica10.mp3'
+        music : 'musicafotos/musica10.mp3'
     }
 ];
 
